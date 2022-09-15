@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning Kubernetes and Clean Code (time after time)  
   
 
-- ❓ Ask me about anything related to PHP / Laravel, Clean Code, Design Pattern, OWASP, Architecture and related technologies  
+- ❓ Ask me about anything related to PHP / Laravel, Clean Code, Design Pattern, OWASP, Architecture etc. 
   
 
 - ⚡ Fun fact: I love video games  
