@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on my programming and communication skills 😀
   
 
-- 🌱 I’m currently learning Kubernetes and Clean Code (time after time)  
+- 🌱 I’m currently learning Kubernetes and Clean Code (time to time)  
   
 
 - ❓ Ask me about anything related to PHP / Laravel, Clean Code, Design Pattern, OWASP, Architecture etc. 
